@@ -14,4 +14,6 @@
 
 # Back lash of the stepper gear, No I didnot forget It is well tuned and tested on 10 teeth nema 14 ,use less teeth is your problem.
 
+# fixed gears idler problem with bad tolerance filament diameter ,NO, it is tested with the best filament of 1.75mm and Shitty many types of filaments of even max 1.65 mm and it is work great. 
+
 # Vedio coming soon to explain assymbly and the screws length used. 
