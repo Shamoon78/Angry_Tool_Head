@@ -12,4 +12,6 @@
 
 # Make sure you remove the filament from the gear area before dissambly otherwise noway taking the gears out .
 
+# Back lash of the stepper gear, No I didnot forget It is well tuned and tested on 10 teeth nema 14 ,use less teeth is your problem.
+
 # Vedio coming soon to explain assymbly and the screws length used. 
