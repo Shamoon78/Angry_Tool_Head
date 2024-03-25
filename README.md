@@ -17,5 +17,5 @@
 # fixed gears idler problem with bad tolerance filament diameter ,NO, it is tested with the best filament of 1.75mm and Shitty many types of filaments of even max 1.65 mm and it is work great. 
 
 # Vedio coming soon to explain assymbly and the screws length used. 
-If you like my work ,I donot need ant support, please instead support [ArmChair Engeneering](https://discord.com/channels/1029426383614648421/1125522811235094538)https://discord.com/channels/1029426383614648421/1125522811235094538  
+If you like my work ,I donot need any support, please instead support [ArmChair Engeneering](https://discord.com/channels/1029426383614648421/1125522811235094538)https://discord.com/channels/1029426383614648421/1125522811235094538  
 Or ClockWayne on https://ko-fi.com/cloakedwayne
