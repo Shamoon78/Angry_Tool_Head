@@ -6,7 +6,7 @@
 
 # I recommend use any filled filaments like PCCF, ASACF ,ABSCF.some parts need support, Any tight passing through screw is meant to be like that, to increase regidity , so be patient and donot drill the holes ,YOU have to figure the list of screws required which are different lengths of M3, only 2 screws used are m2 to mount gear idler also have to be different lengths . Putting the idler cap and fitting the hotend heatsink is also meant to be very tight tolernace ,and need patience to fit in,if it is loose to fit gain you have shitty prints (flow not calibrated well).
 
-# You need REDGA bondteck gear set or even the none inegrated gear with pin screw. can be used . Also need 25mm fan .
+# You need Orbitor2 gear set or REDGA bondteck gear set or even the none inegrated gear with pin screw. can be used . Also need 25mm fan .
 
 # Now go start assymbly of your new tool head and clean your fealthy and dirty IS graphs. Coming soon Orbitor 2 gears and after canon gears.
 
